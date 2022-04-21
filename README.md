@@ -10,3 +10,6 @@ I am an ethical hacker currently on my way to getting my OSCP... TRY HARDER!!!
 While I'm aware I'm quite young for joining the field the way I am but that only encourages me to push further and harder!
 I look for any way to learn things I love learning about technology!
 I love learning why things are why they are! 
+
+Take a look over at my cheat sheet it has scripts i mad and lots of resources:
+  https://github.com/YSSVirus/OSCP-Cheatsheat
